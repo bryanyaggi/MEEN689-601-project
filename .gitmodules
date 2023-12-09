@@ -1,0 +1,3 @@
+[submodule "nmpc_racing"]
+	path = nmpc_racing
+	url = git@github.com:bryanyaggi/nmpc_racing.git
